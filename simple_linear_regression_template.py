@@ -10,6 +10,7 @@ Created on Fri Dec 28 04:56:05 2018
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
+import seaborn as sb
 
 # Importing the dataset
 dataset = pd.read_csv('Salary_Data.csv')
